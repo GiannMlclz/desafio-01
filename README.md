@@ -31,3 +31,16 @@ git commit -m "mensaje"
 
 ```sh
 Etiquetas: strong, b, em, i, h1, ,h2, p, entre otras.
+```
+
+Finalizado el codigo lo valido y compruebo en la siguiente pagina para ver si esta todo correcto
+```sh
+https://validator.w3.org/nu/
+```
+
+ya con el archivo HTML comprobado, pasamos el repositorio local a remoto a github
+
+```sh
+git remote add origin https://github.com/GiannMlclz/desafio-01.git
+git push -u origin main
+```

@@ -26,3 +26,8 @@ git add <nombre-archivo> # (en caso de querer agregar uno solo)
 ```sh
 git commit -m "mensaje"
 ```
+
+## Utilizo las etiquetas aprendidas
+
+```sh
+Etiquetas: strong, b, em, i, h1, ,h2, p, entre otras.
